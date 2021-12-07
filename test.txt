@@ -1,1 +1,5 @@
-dlkjsad okaod okdsao san jnasdjn jnjasdnj sdak,ol aslmko k oldks 
+<<<<<<< HEAD
+dasdlkjsad okaod okdsao san jnasdjn jnjasdnj sdak,ol aslmko k oldks 
+=======
+sdaknsan jnasdjn jnjasdnj sdak,ol aslmko k oldks 
+>>>>>>> main
